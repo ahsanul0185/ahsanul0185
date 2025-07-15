@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a self-driven frontend developer who loves turning ideas into clean, responsive, and user-friendly websites.
 
 
-### 💼 What I Do
+### What I Do
 
 - 🧠 Turn ideas into real-world products
 - 🌐 Develop sleek and scalable web applications
@@ -12,14 +12,14 @@ Welcome to my GitHub! I'm a self-driven frontend developer who loves turning ide
 
 
 
-### 📌 Projects
+### Projects
 
-- 🚀 **Blog by Ahsanul** – MERN blog platform with user auth, AI post generation, and admin dashboard  
-- 👨‍💼 **Everwear E-Commerce** – Modern fashion website with category filtering, cart system, and responsive design  
-- 📊 **Nu Power Group** – Business website built for a client using React, featuring clean sections and mobile-friendly UI
+- **Blog by Ahsanul** – MERN blog platform with user auth, AI post generation, and admin dashboard  
+- **Everwear E-Commerce** – Modern fashion website with category filtering, cart system, and responsive design  
+- **Nu Power Group** – Business website built for a client using React, featuring clean sections and mobile-friendly UI
 
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
