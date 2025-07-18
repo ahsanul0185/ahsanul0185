@@ -11,14 +11,6 @@ Welcome to my GitHub! I'm a self-driven frontend developer who loves turning ide
 - 🧩 Create reusable UI components and maintainable code
 
 
-
-### Projects
-
-- **Blog by Ahsanul** – MERN blog platform with user auth, AI post generation, and admin dashboard  
-- **Everwear E-Commerce** – Modern fashion website with category filtering, cart system, and responsive design  
-- **Nu Power Group** – Business website built for a client using React, featuring clean sections and mobile-friendly UI
-
-
 ### Tech Stack
 
 <p align="left">
