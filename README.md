@@ -5,10 +5,10 @@ Welcome to my GitHub! I'm a self-driven frontend developer who loves turning ide
 
 ### What I Do
 
-- 🧠 Turn ideas into real-world products
-- 🌐 Develop sleek and scalable web applications
-- ⚡ Focus on speed, accessibility, and clean UX
-- 🧩 Create reusable UI components and maintainable code
+- Turn ideas into real-world products
+- Develop sleek and scalable web applications
+- Focus on speed, accessibility, and clean UX
+- Create reusable UI components and maintainable code
 
 
 ### Tech Stack
@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a self-driven frontend developer who loves turning ide
 
 
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahsanul0185" target="_blank">
