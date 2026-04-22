@@ -1,30 +1,25 @@
 # 👋 Hey there!
-
 Welcome to my GitHub! I'm a self-driven frontend developer who loves turning ideas into clean, responsive, and user-friendly websites.
 
-
 ### What I Do
-
 - Turn ideas into real-world products
 - Develop sleek and scalable web applications
 - Focus on speed, accessibility, and clean UX
 - Create reusable UI components and maintainable code
 
-
 ### Tech Stack
-
-<div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   &nbsp;
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30" style="background:white;border-radius:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30"/>
   &nbsp;
@@ -33,14 +28,11 @@ Welcome to my GitHub! I'm a self-driven frontend developer who loves turning ide
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
-</div>
-
-
+</p>
 
 ### Let's Connect
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahsanul0185" target="_blank">
+  <a href="https://www.linkedin.com/in/ahsanuldev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -52,8 +44,3 @@ Welcome to my GitHub! I'm a self-driven frontend developer who loves turning ide
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
-
-
-
-
-
