@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a self-driven frontend developer who loves turning ide
 
 ### Tech Stack
 
-<p align="left" style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+<div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a self-driven frontend developer who loves turning ide
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
-</p>
+</div>
 
 
 
